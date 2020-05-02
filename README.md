@@ -1,4 +1,4 @@
-## Introduction
+## IMPORTANT: MY COMPUTER IS SETUP IN SPANISH: THU=JUE, FRI=VIE, SAT=SAB ON THE PLOTS' LABELS
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
